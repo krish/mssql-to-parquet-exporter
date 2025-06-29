@@ -24,6 +24,15 @@ It supports **restartable syncs**, so you can resume where it left off in case o
 
 ---
 
+## ⚙️ local installations
+
+install bellow libraries on your local python env (use `pip` or `pip3` based on your setup)
+
+```
+pip install pyodbc pandas pyarrow boto3
+
+```
+
 ## 🔑 Required Environment Variables
 
 | Variable           | Description                                                    |
